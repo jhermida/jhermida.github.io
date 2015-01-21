@@ -18,3 +18,5 @@ HTML us a basic computer language which allows websites to be developed. By host
 * MARKUP
 #### Markup is the the refrece to a sequence of characters,numbers,or similar symbols that are inserted in certain areas of a text file indicating how the file should be printed/displayed.
 
+Resources
+To learn more on HTML and find tutorials to get started [Visit w3 Schools!](http://www.w3schools.com)
