@@ -21,7 +21,7 @@ Below you will find a comparison of both phones for your average users daily nee
 | Storage | 32 GB | 128 GB |
 |
 
-| j | Note 4 | Iphone |
-| ------------- | ------------- | ------------ |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
