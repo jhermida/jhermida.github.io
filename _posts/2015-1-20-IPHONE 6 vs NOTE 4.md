@@ -19,3 +19,4 @@ Below you will find a comparison of both phones for your average users daily nee
 | Megapix | 16 | 8 |
 | FrontCamera | 3.7 | 1.2 |
 | Storage | 32 GB | 128 GB |
+|
