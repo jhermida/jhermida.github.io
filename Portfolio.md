@@ -7,7 +7,7 @@ layout: page
 [![Alt Text](https://farm8.staticflickr.com/7547/15712818104_c615f0f851_b.jpg)](http://jhermida.github.io/project1)
 
 
-![Alt Text](https://farm8.staticflickr.com/7487/16149686849_0ac0f3ed75_b.jpg)](http://jhermida.github.io/project2) 
+[![Alt Text](https://farm8.staticflickr.com/7487/16149686849_0ac0f3ed75_b.jpg)](http://jhermida.github.io/project2) 
 
 ![Alt Text](https://farm8.staticflickr.com/7464/16149684879_bece97c2f4_b.jpg)](http://jhermida.github.io/project3)
 
