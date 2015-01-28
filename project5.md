@@ -1,4 +1,4 @@
 ---
-layout:post
+layout: default
 ---
-Page 5
+content5
