@@ -16,4 +16,4 @@ Make sure the layout and text and content you as the designer are implementing a
 ##Know Your Product/Service##
 Make sure you as the designer takes initiative in educating yourself on the product or service just like you wouldn’t have the same content on a car repair shop as you would on a lawyers page , you wouldn’t have the same color scheme if the product you are pitching is for a little girl rather than a senior crowd.
 
-![](https://blog.kissmetrics.com/wp-content/uploads/2011/02/ab-testing-schematic.jpg)
+
