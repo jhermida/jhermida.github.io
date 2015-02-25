@@ -13,5 +13,5 @@ Premium - (upto 5 changes/updates, upto navigation 7 pages, 1 month free hosting
 | Service  | Starting rate  | Premium rate|
 | :------------ |:---------------:| -----:| 
 | Logo Design     | $149 | $199 |
-| Web Design     | $449 | $12 |
-| Web & Logo Design | $499 | $1 |
+| Web Design     | $449 | $549 |
+| Web & Logo Design | $499 | $649 |
