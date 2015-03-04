@@ -1,5 +1,5 @@
 ---
-Layout: Default
+Layout: page
 ---
 </head>
 
