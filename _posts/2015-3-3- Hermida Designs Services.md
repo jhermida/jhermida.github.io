@@ -3,9 +3,6 @@ layout: post
 ---
 #Services Offered#
 
-</head>
-
-<body>
 <table width="393" border="1">
   <tr>
     <th width="6" scope="col">&nbsp;</th>
@@ -53,5 +50,3 @@ layout: post
     <td>$99</td>
   </tr>
 </table>
-</body>
-</html>
