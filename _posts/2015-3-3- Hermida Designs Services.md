@@ -42,7 +42,7 @@ layout: post
   <tr>
     <th scope="row">PRINT</th>
     <td><p>1000 Business Cards</p>
-<p>500 Business Brochures</p></td>
+    <p>500 Business Brochures</p></td>
     <td><p>$39</p>
     <p>&nbsp;</p>
     <p>$69</p></td>
