@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-#Services Offered#
+We offer Web Design and Graphic Design services in the mami ara jhhjgg hgjhgjh jhgjhg jhg j jgjhgjgjhg jhgjhg jhgjhgjhgjhgjh jhgjjhgjhg jhgjhgj jhgj jhg
 
 <table width="393" border="1">
   <tr>
