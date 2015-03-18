@@ -20,6 +20,6 @@ help sell their beach side cottages.
 ![Alt Text](http://www.seotoaster.com/media/real-estate-screenshots/original/realestate-co-nz.jpg)
 
 [House Select](http://www.houseselect.net/)
-![Alt Text](http://www.seotoaster.com/open-source-cms/10-beautiful-real-estate-websites-1361380472490.html)
+![Alt Text](http://www.seotoaster.com/media/real-estate-screenshots/original/houseselect.jpg)
 
 
