@@ -30,3 +30,11 @@ Site draws visitors attention because of its interesting sliding background. Als
 
 ![Alt Text](http://www.seotoaster.com/media/real-estate-screenshots/original/kw.jpg)
 
+
+ I hope this post makes it easier for potential real estate companies to know what they are looking for when thinking of a design concept for their website making it easier to tell the designer exactly what they are in the market for.
+
+
+
+
+If your ready to start marketing your properties on your very own website you can request more information on getting started by emailing joelhermida@ymail.com
+
