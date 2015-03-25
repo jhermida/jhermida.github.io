@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 
 permalink: /about/
 ---
 ![Alt txt](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFUfpQSCGsPnG_JmBs_9dPY14G2wH8oytaRXRHteDv6eRFVuzYHQ)
