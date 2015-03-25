@@ -16,8 +16,11 @@ If your ever in need of a new web page, banner, logo, business cards, flyers you
 ### Contact me
 
 Joel Hermida
+
 (305) 299-8659
+
 9am-9pm
+
 SUN-MON
 
 [joelhermida@ymail.com](mailto:joelhermida@ymail.com)
